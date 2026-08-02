@@ -8,3 +8,4 @@ npmInstall.log
 compile.log
 .DS_Store
 server.log
+ncuLog.txt
